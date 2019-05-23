@@ -1,0 +1,54 @@
+﻿*{
+	color:black;
+	font-size:17px; 
+	font-family:calibri light;
+}
+
+fieldset{
+	width: 520px;
+	high: 600px;
+}
+
+
+h3{
+	color:#68b465; 
+	font-size:18px; 
+	font-family:calibri light;
+}
+
+input[type="text"]{
+	width: 500px;
+	color:light_gray; 
+	font-size:18px;
+	font-family:calibri light; 
+	border-radius: 4px 4px;
+	
+}
+input[type="email"]{
+	width: 500px;
+	color:light_gray; 
+	font-size:18px;
+	font-family:calibri light; 
+	border-radius: 4px 4px;
+	
+}
+
+textarea {
+	width: 500px;
+	color:light_gray; 
+	font-size:18px;
+	font-family:calibri light; 
+	border-radius: 4px 4px;
+}
+
+input[type= "button"]{
+	background:linear-gradient(to bottom, #00008B 5%, #1E90FF  100%);
+	border-color:#00008B;
+	color:white;
+	border-radius:4px;
+	width:100px;
+	margin-left: 38%;
+}
+input[type= "checkbox"]{
+	margin-left: 27%;
+}
